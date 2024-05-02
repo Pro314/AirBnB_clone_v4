@@ -154,8 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Pro314 - [Github](https://github.com/pro314) / [Twitter](https://x.com/APN_Madlala?s=09)
+Patrick Madlala
+[Github](https://github.com/pro314) /
+[Twitter](https://x.com/APN_Madlala?s=09)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
